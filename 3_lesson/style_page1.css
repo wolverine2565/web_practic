@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page1 {
+
+}
+
+.header {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.page1__content {
+    padding-top: 140px;
+    padding-bottom: 190px;
+}
+
+.page1__info {
+    margin-top: 20px;
+}
+
+.heading {
+    margin-bottom: 10px;
+}
+
+.page1__buttons {
+    margin-top: 15px;
+}
+
+.page1__logos {
+    padding-top: 120px;
+}
+
